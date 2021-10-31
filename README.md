@@ -1,3 +1,5 @@
 # ScoalaInformala
 
 doi zece
+
+Adrian
